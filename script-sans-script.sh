@@ -1,0 +1,1 @@
+echo "I'm a script without any script and i do nothing more than say only i can do anything"
